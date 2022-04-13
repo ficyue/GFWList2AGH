@@ -113,10 +113,11 @@ function GenerateRules() {
     case ${software_name} in
         adguardhome)
             domestic_dns=(
-                "https://doh.pub:443/dns-query"
+                "quic://nj.wooy.cool:784"
+                "quic://sh.wooy.cool:784"
             )
             foreign_dns=(
-                "https://doh.opendns.com:443/dns-query"
+                ""quic://dns.wooy.cool:784""
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
