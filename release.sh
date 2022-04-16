@@ -117,7 +117,8 @@ function GenerateRules() {
                 "quic://sh.wooy.cool:784"
             )
             foreign_dns=(
-                ""quic://dns.wooy.cool:784""
+                "quic://dns.wooy.cool:784"               
+                "quic://cmi.wooy.cool:784"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
