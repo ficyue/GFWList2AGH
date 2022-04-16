@@ -13487,6 +13487,7 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -26308,6 +26309,7 @@ cz-toshiba.com
 cz-yk.com
 cz.cc
 cz.douyu.com
+cz.ifeng0.com
 cz2sc.com
 cz365.com
 cz7tjhcv.v1d.szbdyd.com
@@ -32822,6 +32824,7 @@ enguo.com
 engz.net
 enhancement.rili.cn
 enicn.com
+enjoenjoenjo111.xyz
 enjoy.abchina.com
 enjoy.cdn-static.abchina.com
 enjoy.cdn-static.abchina.com.wswebcdn.com
@@ -45057,6 +45060,7 @@ ifeimo.com
 ifeng.adsame.com
 ifeng.com
 ifeng.fm
+ifeng0.com
 ifeng3.yylady.cn
 ifeng3.yylady.cn.w.kunlungr.com
 ifengad.3g.ifeng.com
@@ -62260,6 +62264,7 @@ niuza.com
 niuzhu.com
 niuzhuan-test.com
 nivtc.com
+niwfaxz.cn
 niwodai.com
 niwodai.net
 niwoning.com
