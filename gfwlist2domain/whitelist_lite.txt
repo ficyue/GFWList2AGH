@@ -5911,6 +5911,7 @@
 5jli.com
 5joys.com
 5jwl.com
+5k.work
 5kbox.com
 5kcrm.com
 5kcrm.net
@@ -7518,6 +7519,7 @@
 8llp.com
 8mfty.com
 8mhh.com
+8mi.tech
 8miu.com
 8miu.net
 8mkt.com
@@ -15083,6 +15085,8 @@ byfcw.com
 byfen.com
 byfuh.com
 byfunds.com
+byfurry.com
+byfurry.net
 byfzxy.com
 bygamesdk.com
 byguitar.com
@@ -19762,7 +19766,6 @@ cnnerv.com
 cnnetsec.com
 cnnewss.com
 cnnfootballclub.com
-cnnic.pub
 cnnmol.com
 cnnorip.org
 cnnot.com
@@ -24193,7 +24196,6 @@ dowv.com
 doxue.com
 doyee.com
 doyo.cn
-doyoe.com
 doyoo.net
 doyoudo.com
 doyouhike.net
@@ -29537,6 +29539,7 @@ gdwlife.com
 gdwxyf.com
 gdxfl.com
 gdxinya.com
+gdxmsx.com
 gdxscode.com
 gdxxb.com
 gdxych.com
@@ -37029,6 +37032,7 @@ ict18.com
 ict361.com
 ict88.com
 ictcsr.org
+ictdns.store
 ictehi.com
 ictest8.com
 ictk-china.com
@@ -37038,6 +37042,7 @@ ictpaas.com
 ictr.cn
 ictun.com
 ictuniv.com
+icu.moe
 iculture.cc
 icv.cn
 icver.com
@@ -46005,7 +46010,6 @@ linktt.com
 linkunbin.com
 linkvans.com
 linkwebll.com
-linkweway.com
 linlizone.com
 linlongyun.com
 linlongyx.com
@@ -51365,6 +51369,7 @@ ncacg.org
 ncartfoundation.org
 ncboo.com
 nccqj.com
+ncderuida.com
 ncdxbbs.com
 ncfcsa.org
 ncfgroup.com
@@ -51715,6 +51720,7 @@ nfschina.com
 nftoolshop.com
 nfwin.com
 nfyeya.com
+nfyun.vip
 nfzhouyi.com
 ng-alain.com
 ng021.com
@@ -65499,6 +65505,7 @@ tencentproxy.com
 tencentrio.com
 tencentstart.com
 tencentsuite.com
+tencenttds.com
 tencenttid.com
 tencentwemeet.club
 tencentwepark.com
@@ -65825,6 +65832,7 @@ threatbook.net
 threegorgestours.com
 threetong.com
 thron.cn
+thrrip.space
 ths123.com
 ths8.com
 thseoer.com
@@ -67119,6 +67127,7 @@ trojx.me
 tronixin.com
 tropcdn.com
 trpcdn.net
+trpcw.com
 trqjrp.xyz
 trs.cn
 trsoft.vip
@@ -74615,7 +74624,6 @@ xiaomifood.cn
 xiaominet.com
 xiaominfo.com
 xiaoming.me
-xiaomingming.org
 xiaomingtaiji.com
 xiaomiqiu.com
 xiaomiquan.com
@@ -78003,6 +78011,7 @@ yibenmanhua.com
 yibite.com
 yiboard.com
 yibocat.com
+yiboshi.com
 yicai.com
 yicai55.com
 yicaiglobal.com
@@ -78779,6 +78788,7 @@ yjxsoft.com
 yjydl.com
 yjyghb.com
 yjyj95.com
+yjyxiyan.com
 yjz9.com
 yjzb.app
 yjzb.tv
@@ -78985,6 +78995,7 @@ ynet.cn
 ynet.com
 ynevxkx.cn
 ynfabu.com
+ynfmly.com
 ynfwyy.com
 ynfxw.com
 yngd016.com
@@ -80694,6 +80705,7 @@ ywhqs.com
 ywies-shpd.com
 ywindex.com
 ywinf.com
+ywit.xyz
 ywky.org
 ywlist.com
 ywlm.net
