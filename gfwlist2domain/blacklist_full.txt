@@ -1977,6 +1977,7 @@ api-verify.recaptcha.net
 api.ai
 api.dropboxapi.com
 api.news
+api.palworldgame.com
 api.pureapk.com
 api.recaptcha.net
 api.steampowered.com
@@ -21285,6 +21286,7 @@ ocsp-certum.com
 ocsp-responder.com
 ocsp.microsoft.com
 october-review.org
+octocaptcha.com
 ocul.us
 oculus-china.com
 oculus.com
@@ -21867,6 +21869,7 @@ palmers.ac.uk
 palmislife.com
 pals.ac.uk
 paltalk.com
+palworldgame.com
 panamapapers.sueddeutsche.de
 panasonic.com
 panasonic.jp
