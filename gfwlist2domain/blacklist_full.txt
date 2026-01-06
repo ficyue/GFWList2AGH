@@ -1125,6 +1125,7 @@ ai.dev
 ai.google
 ai.google.dev
 ai.ls
+ai.studio
 ai7995.site
 ai91porn.cc
 aiaa.org
@@ -18394,6 +18395,7 @@ onxxxtube.com
 onxxxvideo.com
 ood.opsource.net
 oojj.de
+ooni.io
 ooni.org
 ootbstudio.co.kr
 op.gg
@@ -20854,13 +20856,13 @@ rustdesk.com
 rustup.rs
 rusvpn.com
 ruten.com.tw
+rutor.info
 rutracker.cc
 rutracker.cr
 rutracker.me
 rutracker.net
 rutracker.nl
 rutracker.org
-rutrecker.net
 rutrk.org
 rutube.ru
 rutubelist.ru
@@ -26522,6 +26524,7 @@ xbx.lv
 xcafe.com
 xcafe.in
 xcams.com
+xcancel.com
 xcg123.com
 xchina.co
 xchina.fun
