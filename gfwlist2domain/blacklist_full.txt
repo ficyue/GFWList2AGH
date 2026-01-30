@@ -2435,10 +2435,12 @@ ateam-oracle.com
 atgfw.org
 athenaeizou.com
 atkgallery.com
+atl-paas.net
 atlanta168.com
 atlantaminidealers.com
 atlasdmt.com
 atlasonepoint.com
+atlassian-dev.net
 atlassian.com
 atlassian.net
 atnext.com
@@ -9602,6 +9604,9 @@ fotolia.tv
 fotolja.com
 fotoscaserasx.com
 foundationdb.org
+foundationdns.com
+foundationdns.net
+foundationdns.org
 fountmedia.io
 fourface.nodesnoop.com
 fourthinternational.org
@@ -13925,6 +13930,7 @@ jinrizhiyi.news
 jinroukong.com
 jintian.net
 jinx.com
+jira.com
 jiruan.net
 jitouch.com
 jitsi.org
@@ -16537,7 +16543,6 @@ moon.fm
 moonbbs.com
 moonbbs.info
 moonbingo.com
-mooo.com
 moov.hk
 moozporn.com
 moptt.tw
@@ -21724,6 +21729,7 @@ simcity-buildit.com
 simcity.com
 simg.jp
 simgbb.com
+simianx.ai
 similar-porn.fun
 simility.com
 simonsgirls.com
@@ -22321,6 +22327,7 @@ srebrenica360.com
 srocket.us
 srtcdn.net
 srttu.edu
+ss-inf.net
 ss-link.com
 ss.pythonic.life
 ss2.us
